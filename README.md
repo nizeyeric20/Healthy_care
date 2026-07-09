@@ -1,10 +1,10 @@
 # Healthy_care
 Hello friends this is my beautiful website that i made to show and to help people to Learning how to take care your body by eating  Balanced diet meal and body fitness by learn making physical exesicess and making good and clean food meal all in this website.
 
-- This website helps people to understand what is balanced diet.
-- This website teaches people the kind of foods needed and there exemples to undestand well.
-- This website has section that helps people to prepare food meal in morning midday lunch and  evening.
-- It has section that teaches you the sports  you can make to keep your healthy well.
+1. This website helps people to understand what is balanced diet.
+2. This website teaches people the kind of foods needed and there exemples to undestand well.
+3. This website has section that helps people to prepare food meal in morning midday lunch and  evening.
+4. It has section that teaches you the sports  you can make to keep your healthy well.
 
 **HTML** I made this website using html to show clean and easy understandble layout and good page structure web page by showing images link different paragraph  different heading and to make it easy  understandble.
 
