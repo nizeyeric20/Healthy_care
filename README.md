@@ -12,7 +12,7 @@ Hello friends this is my beautiful website that i made to show and to help peopl
 
 **Cloudinary** is software that helps to host images or videos to use in website or other. I used cloudinary to host my images so i can easy use its links in image src it is good it will helps me and you to become proffesional and it is to use images in different websites you can search cloudinry in browser and sign up and start to use it.
 
-##preview
+## preview
 ![website header and first section](https://res.cloudinary.com/dfxfr8y3m/image/upload/v1783580316/Screenshot_2026-07-09_085633_b3ylel.png)
 ![Section of balanced diet](https://res.cloudinary.com/dfxfr8y3m/image/upload/v1783580315/Screenshot_2026-07-09_085648_bmrcdf.png)
 ![Section of spots](https://res.cloudinary.com/dfxfr8y3m/image/upload/v1783580315/Screenshot_2026-07-09_085718_uqnvp6.png)
